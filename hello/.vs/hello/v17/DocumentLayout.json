@@ -1,0 +1,70 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\USER\\Documents\\GitHub\\analyse-et-conception\\hello\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1A7FDBBD-DAEA-4862-BA62-577390B8D97C}|hello\\hello.csproj|c:\\users\\user\\documents\\github\\analyse-et-conception\\hello\\hello\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1A7FDBBD-DAEA-4862-BA62-577390B8D97C}|hello\\hello.csproj|solutionrelative:hello\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A7FDBBD-DAEA-4862-BA62-577390B8D97C}|hello\\hello.csproj|c:\\users\\user\\documents\\github\\analyse-et-conception\\hello\\hello\\hello.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{1A7FDBBD-DAEA-4862-BA62-577390B8D97C}|hello\\hello.csproj|solutionrelative:hello\\hello.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1418685207:0:{bf84ea66-d821-4dba-b1b1-2777d8574775}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Documents\\GitHub\\analyse-et-conception\\hello\\hello\\Program.cs",
+              "RelativeDocumentMoniker": "hello\\Program.cs",
+              "ToolTip": "C:\\Users\\USER\\Documents\\GitHub\\analyse-et-conception\\hello\\hello\\Program.cs",
+              "RelativeToolTip": "hello\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-26T19:42:28.328Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "hello",
+              "DocumentMoniker": "C:\\Users\\USER\\Documents\\GitHub\\analyse-et-conception\\hello\\hello\\hello.csproj",
+              "RelativeDocumentMoniker": "hello\\hello.csproj",
+              "ToolTip": "C:\\Users\\USER\\Documents\\GitHub\\analyse-et-conception\\hello\\hello\\hello.csproj",
+              "RelativeToolTip": "hello\\hello.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-11-26T19:42:22.104Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{56df62a4-05a3-4e5b-aa1a-99371ccfb997}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
